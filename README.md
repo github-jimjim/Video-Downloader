@@ -1,6 +1,6 @@
 # Universal Video Downloader and Converter
 
-This program allows you to download videos from various websites, including those with restricted or adult content (porn), convert video formats, and check video quality. It includes multiple converters and supports downloading audio and video in different qualities.
+This program allows you to download videos from various websites, including those with restricted or adult content, convert video formats, and check video quality. It includes multiple converters and supports downloading audio and video in different qualities.
 
 ## Features
 
